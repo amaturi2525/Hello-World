@@ -1,4 +1,4 @@
 <?php
-	echo "Hello,World!"; //「,」が抜けてる
+	echo "Hello World!";
 	echo "I'm here!";
 ?>
